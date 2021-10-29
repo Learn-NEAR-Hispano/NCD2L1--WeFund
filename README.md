@@ -33,7 +33,7 @@
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/EbanCuMo/ConnectIoT
+git clone https://github.com/paul-cruz/WeFund
 cd ConnectIoT
 ```
 
@@ -46,4 +46,14 @@ cd ConnectIoT
 ### Deployar el contrato
 ```bash
 yarn dev:deploy:contract
+```
+
+### Instalar dependencias del frontend
+```bash
+    yarn install
+```
+
+### Ejecutar el frontend
+```bash
+    yarn start
 ```
