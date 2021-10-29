@@ -30,3 +30,20 @@
     ```bash
     near login
     ```
+
+### Clonar el Repositorio
+```bash
+git clone https://github.com/EbanCuMo/ConnectIoT
+cd ConnectIoT
+```
+
+### Instalar y compilar el contrato
+```bash
+    yarn install
+    yarn build:contract:debug
+```
+
+### Deployar el contrato
+```bash
+yarn dev:deploy:contract
+```
