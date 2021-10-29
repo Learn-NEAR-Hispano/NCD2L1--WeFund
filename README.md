@@ -111,3 +111,6 @@ Utilizaremos FRIEND_ACCOUNT_ID para identificar el account Id de algún amigo re
 ```bash
     near call CONTRACT_ACCOUNT_ID getFriends '' --accountId YOUR_ACCOUNT_ID
 ```
+
+## Caso de uso:
+### WeFund permite a los usuarios que recién inician con un proyecto y que necesitan financiamiento para el desarrollo del mismo, buscar esos fondos entre las personas de la comunidad que estén interesadas en el objetivo del mismo.
