@@ -63,6 +63,7 @@ Una vez deployado el contrato, usaremos el Account Id devuelto por la operacion 
 Id del contrato [será utilizado como CONTRACT_ACCOUNT_ID en los ejemplos de comandos]
 
 Utilizaremos YOUR_ACCOUNT_ID para identificar el account Id que utilizamos para hacer las llamadas a los métodos.
+
 Utilizaremos FRIEND_ACCOUNT_ID para identificar el account Id de algún amigo registrado en el servicio.
 
 ### Registrarse en el servicio
