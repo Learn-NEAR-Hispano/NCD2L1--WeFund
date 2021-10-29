@@ -85,7 +85,7 @@ const Dashboard = ({ wallet, account }) => {
     <Container fluid>
       <Row>
         <Col md="12">
-          <h1>Hi: {account.accountId}, Help A Friend!</h1>
+          <h1>Hi: {account.accountId}!</h1>
         </Col>
       </Row>
       <Row>
