@@ -1,0 +1,22 @@
+{
+  "name": "help-a-friend",
+  "version": "0.0.1",
+  "description": "Project to help freinds to make projects",
+  "scripts": {
+    "dev": "watch -d -n 1 'clear && yarn test'",
+    "test": "asp --nologo",
+    "clean": "rm -rf ./build && rm -rf ./neardev",
+    "build": "asb --target debug",
+    "build:release": "asb",
+    "asp": "asp --verbose --nologo"
+  },
+  "keywords": [],
+  "author": "github.com/paul-cruz",
+  "license": "ISC",
+  "devDependencies": {
+    "near-sdk-as": "^3.1.0"
+  },
+  "dependencies": {
+    "near-units": "^0.1.9"
+  }
+}
